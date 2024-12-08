@@ -1,0 +1,7 @@
+python-docx          # Для работы с docx-документами
+sentence-transformers  # Для векторизации текста
+faiss-cpu             # Для поиска в векторном пространстве
+matplotlib             # Для построения графиков
+rouge                # Для оценки ROUGE
+bert-score           # Для оценки BERTScore
+numpy           # Для работы с массивами
